@@ -1,0 +1,52 @@
+*{
+    width: auto;
+    padding: auto;
+}
+form{
+    margin: 4px;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    text-align: left;
+   
+}
+input{
+    margin: 20px;
+    text-align: center;
+    padding: 12px;
+    border: solid;
+    border-style: ridge;
+    width: 21%;
+}
+h2{
+    margin: 0px;
+    padding: 8px;
+    text-align: center;
+}
+img{
+    margin: auto;
+    width: 100%;
+    position: absolute;
+    z-index: -5;
+}
+button{
+    margin-left : 300px;
+    text-align: center;
+    padding: 15px;
+    border-block: revert;
+    width: 10%;
+    border-radius: 35%;
+    /* padding: 5px; */
+    background-color:red;
+}
+h3{
+    
+    padding: 10px;
+    border: solid;
+    border-width: inherit;
+    border-radius: 17px;
+    FONT-WEIGHT: 200;
+    width: 11%;
+    background: rgb(240, 7, 147);
+    text-align: inherit;
+}
